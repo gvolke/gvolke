@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="mailto:guvolke@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </p>
 
 ---
@@ -77,14 +77,14 @@
 | --- | --- | --- |
 | [**LetMeAsk-server**](https://github.com/gvolke/LetMeAsk-server) | API de salas de perguntas e respostas. Permite criar salas, enviar perguntas e gerar respostas automaticamente a partir de um áudio, usando a API do Google Gemini. Desenvolvido no NLW 20 da Rocketseat. | TypeScript, Fastify, Zod, Drizzle ORM, PostgreSQL, Docker |
 | [**LetMeAsk-web**](https://github.com/gvolke/LetMeAsk-web) | Front-end da aplicação LetMeAsk. | TypeScript |
-| [**webhook-inspector**](https://github.com/gvolke/webhook-inspector) | <!-- descreva o projeto --> Projeto em TypeScript. | TypeScript |
-| [**next-rbac-saas**](https://github.com/gvolke/next-rbac-saas) | <!-- descreva o projeto --> Projeto em TypeScript. | TypeScript, Next.js |
-| [**gallery-plus**](https://github.com/gvolke/gallery-plus) | <!-- descreva o projeto --> Projeto em TypeScript. | TypeScript |
+| [**webhook-inspector**](https://github.com/gvolke/webhook-inspector) | Projeto monorepo com backend node e frontend react que captura e permite inspecionar endpoints de requisições com dados detalhados (headers, cookies, body). | TypeScript |
+| [**next-rbac-saas**](https://github.com/gvolke/next-rbac-saas) | Projeto monorepo inspirado no Kanban, idealizado para como um serviço para ser vendido à empresas com controle de acesso baseado em funções. | TypeScript, Next.js |
+| [**gallery-plus**](https://github.com/gvolke/gallery-plus) | Projeto focado em frontend, uma galeria para armazenar fotos com layout moderno. | TypeScript |
 | [**ui-clone-mercadolivre**](https://github.com/gvolke/ui-clone-mercadolivre) | Estudo de interface de usuário reproduzindo os elementos principais do site do Mercado Livre. | TypeScript |
 
 ### 🚧 Em desenvolvimento
 
-**GamerHub**: plataforma para descobrir jogos (dados da API da RAWG), favoritar, avaliar e montar um perfil com seus jogos. Monorepo com front-end em **Next.js**, API em **Fastify** com **Prisma** e **PostgreSQL**, cache com **Redis**, validação compartilhada com **Zod** e testes unitários com **Vitest**.
+**GamerHub**: plataforma para descobrir jogos, favoritar, avaliar, montar um perfil com seus jogos e interagir com amigos. Monorepo com front-end em **Next.js**, API em **Fastify** com **Prisma** e **PostgreSQL**, cache com **Redis**, validação compartilhada com **Zod** e testes unitários com **Vitest**.
 
 ---
 
